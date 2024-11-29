@@ -56,7 +56,7 @@ Released: 2004
 
 ## [IME Pay](https://www.imepay.com.np/)
 
-## [Nabil Electronic Payment Gateway](https://nabilbank.com/en/personal/card-e-banking/services/nabil-electronic-payment-gateway-epg)
+## [Nabil Electronic Payment Gateway](https://www.nabilbank.com/services-payments/services/merchant-acquiring/nabil-electronic-payment-gateway-epg)
 
 - Supports International Payments through Visa/Mastercard/Unionpay
 
